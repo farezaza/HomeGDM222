@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\vgjhhg\bin\Debug\net6.0\vgjhhg.exe
+C:\Users\User\Desktop\vgjhhg\bin\Debug\net6.0\vgjhhg.deps.json
+C:\Users\User\Desktop\vgjhhg\bin\Debug\net6.0\vgjhhg.runtimeconfig.json
+C:\Users\User\Desktop\vgjhhg\bin\Debug\net6.0\vgjhhg.dll
+C:\Users\User\Desktop\vgjhhg\bin\Debug\net6.0\vgjhhg.pdb
+C:\Users\User\Desktop\vgjhhg\obj\Debug\net6.0\vgjhhg.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\vgjhhg\obj\Debug\net6.0\vgjhhg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\vgjhhg\obj\Debug\net6.0\vgjhhg.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\vgjhhg\obj\Debug\net6.0\vgjhhg.AssemblyInfo.cs
+C:\Users\User\Desktop\vgjhhg\obj\Debug\net6.0\vgjhhg.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\vgjhhg\obj\Debug\net6.0\vgjhhg.dll
+C:\Users\User\Desktop\vgjhhg\obj\Debug\net6.0\refint\vgjhhg.dll
+C:\Users\User\Desktop\vgjhhg\obj\Debug\net6.0\vgjhhg.pdb
+C:\Users\User\Desktop\vgjhhg\obj\Debug\net6.0\vgjhhg.genruntimeconfig.cache
+C:\Users\User\Desktop\vgjhhg\obj\Debug\net6.0\ref\vgjhhg.dll
